@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Kemal Akçocuk — Desktop software, thoughtfully built.</title>
+<desc id="desc">Dark teal banner with a minimalist illustration of a desktop application.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102a33"/><stop offset="1" stop-color="#101923"/></linearGradient><linearGradient id="accent"><stop stop-color="#8ee3bf"/><stop offset="1" stop-color="#65b8cf"/></linearGradient></defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<circle cx="1140" cy="50" r="215" fill="#23595c" opacity=".18"/>
+<path d="M0 296H1200" stroke="#77d2b5" stroke-opacity=".18"/>
+<rect x="54" y="51" width="36" height="4" rx="2" fill="#9be2bd"/>
+<text x="54" y="91" fill="#a6c3c7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="3">MIRA SOFTWARE</text>
+<text x="51" y="153" fill="#f4f8f6" font-family="DejaVu Sans,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Kemal Akçocuk</text>
+<text x="54" y="195" fill="#c4d7d7" font-family="DejaVu Sans,Arial,sans-serif" font-size="23">Desktop software, thoughtfully built.</text>
+<text x="54" y="251" fill="#8fd8bf" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="1">RUST / TAURI / CREATIVE TOOLS</text>
+<g transform="translate(810 57)"><rect width="332" height="208" rx="14" fill="#12222e" stroke="#48676b"/><path d="M0 36H332" stroke="#48676b"/><circle cx="20" cy="18" r="4" fill="#efb77d"/><circle cx="36" cy="18" r="4" fill="#8cbaa5"/><circle cx="52" cy="18" r="4" fill="#6cb1c5"/><rect x="18" y="55" width="80" height="134" rx="6" fill="#1e3540"/><rect x="31" y="71" width="48" height="5" rx="2" fill="#6d9b9c"/><rect x="31" y="91" width="37" height="5" rx="2" fill="#476c77"/><rect x="31" y="111" width="48" height="5" rx="2" fill="#476c77"/><rect x="31" y="131" width="32" height="5" rx="2" fill="#476c77"/><rect x="116" y="55" width="197" height="27" rx="5" fill="#2b5255"/><rect x="132" y="66" width="106" height="5" rx="2" fill="url(#accent)"/><path d="M120 106H285M120 127H260M120 148H283M120 169H231" stroke="#67858a" stroke-width="6" stroke-linecap="round"/><rect x="267" y="157" width="46" height="32" rx="7" fill="#8ee3bf"/><path d="m282 173 6 5 11-12" fill="none" stroke="#143c39" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
